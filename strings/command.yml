@@ -12,12 +12,12 @@
 
 # Bot Commands
 PING_COMMAND : ["ping"]
-START_COMMAND : ["start"]
+START_COMMAND : ["tart"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
-GSTATS_COMMAND : ["gstats"]
-STATS_COMMAND : ["stats"]
+GSTATS_COMMAND : ["khushi"]
+STATS_COMMAND : ["harsh"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
